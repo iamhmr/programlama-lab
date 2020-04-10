@@ -1,4 +1,4 @@
-import sys
+import sys ,csv
 
 #İşçilerin çıkış aylarına göre histogram bilgisini oluşturup medyanını ve ortalamasını bulan kod
 deneme=open(sys.argv[1]+'/input_hw_2.csv','r')
